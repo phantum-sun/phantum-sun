@@ -1,11 +1,24 @@
-* {
-    background-color: black;
+.black {
+    background-color: #030100;
 }
 
-body {
-    color: black;
+.light-orange {
+    background-color: #d14a15;
 }
 
-.card {
-    background-color: orange;
+.med-orange {
+    background-color: #c84009;
+}
+
+.dark-orange {
+    background-color: #b43908;
+    color: white;
+}
+
+.purple {
+    background-color: #b890d6;
+}
+
+a {
+    color: #4c0791;
 }
