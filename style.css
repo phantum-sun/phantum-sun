@@ -15,8 +15,12 @@
     color: white;
 }
 
-.purple {
-    background-color: #b890d6;
+.rounded {
+    border-radius: 10px;
+}
+
+.bottom-border {
+    border-bottom: 2px solid #030100;
 }
 
 a {
