@@ -3,7 +3,7 @@
 }
 
 .light-orange {
-    background-color: #d14a15;
+    background-color: #d15321;
 }
 
 .med-orange {
@@ -11,7 +11,7 @@
 }
 
 .dark-orange {
-    background-color: #b43908;
+    background-color: #9c340b;
     color: white;
 }
 
@@ -25,4 +25,9 @@
 
 a {
     color: #390072;
+}
+
+.logo {
+    width: 35px;
+    border-radius: 50%;
 }
