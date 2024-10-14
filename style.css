@@ -2,6 +2,13 @@
     background-color: #030100;
 }
 
+.background {
+    background-image: url("images/phantum.sun.spotify.logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
 .light-orange {
     background-color: #d15321;
 }
