@@ -5,9 +5,9 @@
 .background {
     background-image: url("images/phantum.sun.spotify.logo.png");
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: 100%;
-    background-position: center top;
+    background-position: center;
 }
 
 .light-orange {
@@ -36,7 +36,7 @@ a {
 }
 
 .light-link {
-    color: #e0c2ff;
+    color: #eadbf8;
 }
 
 .logo {
@@ -55,4 +55,13 @@ a {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+.glow {
+    border: 2px solid #030100;
+    box-shadow: 2px 2px 6px rgb(243, 137, 76), -2px -2px 6px rgb(243, 137, 76), 2px -2px 6px rgb(243, 137, 76), -2px 2px 6px rgb(243, 137, 76);
+}
+
+div {
+    opacity: .97;
 }
